@@ -1,1 +1,1 @@
-# GITLabTask
+Open the application, create a personal note, and click Save to store it.# GITLabTask
